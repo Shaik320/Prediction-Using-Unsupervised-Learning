@@ -3,7 +3,8 @@ Unsupervised learning is a type of machine learning in which the algorithm is no
 Unsupervised machine learning algorithms infer patterns from a dataset without reference to known, or labeled, outcomes. 
 From the given Iris Dataset, predict the optimum number of clusters and representing it visually.
 Table of Contents:
-Loading the Data
+Loading the Data![Machine-Learning-Explained2](https://user-images.githubusercontent.com/83866738/132959470-6b3ff54c-be92-4c60-803c-658f186c5748.png)
+
 Train and Test Split
 Data Preprocessing
 Prediction
